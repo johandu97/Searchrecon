@@ -11,6 +11,31 @@ Search information for reconnaissance process.
 
 ![Searchrecon](images/screenshot.png)
 
+## Installation
+
+```
+git clone https://github.com/johandu1997/Searchrecon.git
+```
+
+## Dependencies
+
+* Installation on Linux
+
+```
+sudo pip install -r requirements.txt
+```
+
+## Setup
+
+* Installation on Linux
+```
+sudo ./build.sh
+```
+## Usage
+
+```
+searchrecon
+```
 ## Issues and requests
 
 If you have a problem or a feature request, open an [issue](https://github.com/johandu1997/Searchrecon/issues).
